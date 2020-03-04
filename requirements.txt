@@ -1,0 +1,6 @@
+requests
+urllib3
+line-bot-sdk
+Flask
+pytesseract
+Pillow
